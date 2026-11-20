@@ -28,6 +28,11 @@ An animated, Nothing OS-style Rainmeter widget suite for the Windows desktop: cl
   <img src="https://raw.githubusercontent.com/wwGuGuww/nthing-widgets/main/assets/widget-weather.gif" width="120">
 </p>
 
+### ● [Essential Lite](https://github.com/wwGuGuww/EssentialLite)
+A Nothing OS-style Android app: screenshots with OCR, notes and voice memos in two keys, a dot-matrix toolbox and an encrypted phone ↔ PC link.
+
+<a href="https://github.com/wwGuGuww/EssentialLite"><img src="https://raw.githubusercontent.com/wwGuGuww/EssentialLite/main/assets/hero.png" alt="Essential Lite"></a>
+
 ### ● [Dotted](https://github.com/wwGuGuww/dotted)
 A dot-matrix logic puzzle played with red and black keys. Time attack, daily puzzle and free mode, with light and dark themes. One HTML file, nothing to install.
 
@@ -40,5 +45,4 @@ A dot-matrix logic puzzle played with red and black keys. Time attack, daily puz
 </p>
 
 ### ○ In progress
-- **EssentialLite**: Nothing-style screenshot, note and audio manager (Android, Kotlin)
 - **Bozkır Avcısı**: a game I'm building in Unity
